@@ -16,12 +16,7 @@ namespace 二次测试
             Console.WriteLine("期待测试成功");
             Console.WriteLine("期待测试成功");
 
-            Console.WriteLine("期待测试成功");
-            Console.WriteLine("期待测试成功");
-            Console.WriteLine("期待测试成功");
-            Console.WriteLine("期待测试成功");
-            Console.WriteLine("期待测试成功");
-            Console.WriteLine("期待测试成功");
+       
 
         }
     }
